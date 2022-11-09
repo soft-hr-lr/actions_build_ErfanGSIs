@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
+  ROM_URL: https://9n761ossomjvhiej606auct0e8092ao13vs839lakg10bsciil9vvjdu.qc.dolfincdnx.cn:10443/xdispatch7bb62cb22a51601c/bigota.d.miui.com/V13.0.2.0.SLDCNXM/miui_PSYCHE_V13.0.2.0.SLDCNXM_1ce9db4995_12.0.zip?bsreqid=af8a02751493e77c3a69849aaafb314c
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
